@@ -1,0 +1,27 @@
+body{
+    background-image: url(https://th.bing.com/th/id/OIP.Z5aFDXV3zpAWdmROyJRiMAHaFS?pid=ImgDet&w=832&h=594&rs=1);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.384);
+}
+table{
+    margin: auto;
+    background-color: rgba(0, 0, 0, 0.384);
+    border-spacing: 10px;
+}
+td{
+    color: white;
+}
+textarea{
+    height:1.5cm ;
+    width: 10cm;
+}
+button{
+    align-self: center;
+    background-color: brown;
+    color: white;
+}

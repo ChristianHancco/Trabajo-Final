@@ -1,0 +1,17 @@
+body{
+    background-image: url(http://vidauniversitaria.fcctp.usmp.edu.pe/wp-content/uploads/2015/05/agencia-793-x-400.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+table{
+    border-radius: 1cm;
+    background-color: white;
+    align-items: center;
+    text-align: center;
+    margin: auto;
+}
+p{
+    text-align: end;
+}
